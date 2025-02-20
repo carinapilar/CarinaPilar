@@ -21,8 +21,16 @@ Beyond technical support, I actively take on **leadership initiatives**, driving
 - [Pandas: Data Transformation and Manipulation](https://cursos.alura.com.br/certificate/4eb90c96-f52f-47a0-9dac-19777da254d8?lang=pt_BR)
 - [Pandas: Data Cleaning and Processing](https://cursos.alura.com.br/certificate/f4aeb20f-7af3-446f-afbc-9a407e444383?lang=pt_BR)
 
-### **Google Data Analytics Professional Certificate**
-- [View Certificate](https://www.credly.com/badges/71cb9aa4-c508-4bac-9082-caa8a27269f9/linked_in_profile)
+### **Google Data Analytics - Coursera (7 Courses)**
+- [Foundations: Data, Data, Everywhere](https://coursera.org/verify/DTGVN5QCVVJH)
+- [Ask Questions to Make Data-Driven Decisions](https://coursera.org/verify/N24JLQXSJXE2)
+- [Prepare Data for Exploration](https://coursera.org/verify/RNNW9LZAMEGZ)
+- [Process Data from Dirty to Clean](https://coursera.org/verify/2J3QPDKYZEYE)
+- [Analyze Data to Answer Questions](https://coursera.org/verify/T8NXCPWHLLGA)
+- [Share Data Through the Art of Visualization](https://coursera.org/verify/BN6NPY8GNYR2)
+- [Data Analysis with R Programming](https://coursera.org/verify/Q9DHNKZ3WE32)
+- [Google Data Analytics Capstone: Complete a Case Study](https://coursera.org/verify/EP9VXVPJRU7S)
+- [Professional Certificate](https://www.credly.com/go/oHz8AbN8)
 
 ---
 
